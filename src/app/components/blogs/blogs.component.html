@@ -1,0 +1,7 @@
+<ul *ngFor="let blog of blogs">
+  <li>title: {{ blog.title }}</li>
+  <li>blogContent: {{ blog.blogContent }}</li>
+  <li>public: {{ blog.public }}</li>
+</ul>
+
+<app-create-blog (addBlog)="addBlog($event)"></app-create-blog>

@@ -1,0 +1,2 @@
+<h1>List of Books</h1>
+<app-book-item *ngFor="let book of bookList" [book]="book" (marked)="markAsFavorite(book)"></app-book-item>

@@ -1,0 +1,10 @@
+<h1>My Bookmarked Links</h1>
+<a routerLink="/directory">Back to the directory</a>
+
+<ul>
+  <li *ngFor="let bookmark of bookmarkList">
+    <a href="{{ bookmark.url }}">{{ bookmark.name }}</a>
+  </li>
+</ul>
+
+<button (click)="clearBookmarks()">Reset list of bookmarks</button>

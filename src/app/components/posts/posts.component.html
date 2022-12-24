@@ -1,0 +1,38 @@
+<h1>{{ title }}</h1>
+<p>{{ name }} is a student in grade {{ grade }}.</p>
+<p>10 minus 2 is {{ 10 - 2 }}.</p>
+<br/>
+<p>{{ name }} is a student in grade {{ grade }}.</p>
+<p>The student's grade in this course: {{ getCourseGrade() }}</p>
+<img src="{{ imageUrl }}"> 
+
+<ul *ngFor="let post of posts">
+    <li>{{ post.title }}</li>
+    <li>{{ post.body }}</li>
+    <li>Votes: {{ post.votes }}</li>
+</ul>
+
+<ul>
+    <li *ngFor="let country of countryList2">
+      {{ country.name }} has {{ country.population }} people.
+    </li>
+</ul>
+
+
+
+<p *ngIf="message === 'My Favorite Blogs'">
+  This is a list of my favorite blogs!
+</p>
+
+<p [ngStyle]="{'font-size': message2 === 'Header' ? '48px' : '12px' }">This is the header.</p>
+
+<!-- <ul *ngFor="let post of posts">
+  <li>{{ post.title }}</li>
+  <li>{{ post.body }}</li>
+  <li>Votes: {{ post.votes }}</li>
+</ul>
+ -->
+
+<app-post-item *ngFor="let post of posts" [post]="post" (hidePost)="hidePost($event)"></app-post-item>
+
+<app-create-post (addPost)="addNewPost($event)"></app-create-post>

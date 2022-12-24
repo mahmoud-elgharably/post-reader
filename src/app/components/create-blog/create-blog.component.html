@@ -1,0 +1,26 @@
+<h1>Create a blog post</h1>
+<form #form = "ngForm" (ngSubmit)="onSubmit()">
+    <label>Blog title</label>
+    <input type="text" name="title" required minlength="6" maxlength="32" placeholder="Enter blog title" [(ngModel)]="title" #blogTitle="ngModel">
+    <br>
+    <label>Blog content</label>
+    <textarea name="blogContent" required minlength="16" placeholder="Enter blog content" [(ngModel)]="blogContent"></textarea>
+    <br>
+    <label>Post blog publicly?</label>
+    <input type="checkbox" [(ngModel)]="public" (change)="public = !public">
+    <br>
+    <button type="submit" [disabled]="form.invalid">Submit</button>
+    <br>
+    <button type="button" (click)="navigate_OnClick()">Navigate</button>
+    <br>
+    <h2>title: {{ title }}</h2>
+</form>
+
+<div *ngIf="blogTitle.invalid && blogTitle.dirty">
+    <div *ngIf="blogTitle.errors!.required">
+      Please provide a title for your blog post.
+    </div>
+    <div *ngIf="blogTitle.errors!.minlength">
+      The title of the blog must contain at least 6 characters.
+    </div>
+</div>

@@ -1,0 +1,14 @@
+<h1>List of Animals</h1>
+<h2>Old Way</h2>
+<ul>
+    <li *ngFor="let animal of animalList">
+        {{ animal.name }}
+    </li>
+</ul>
+<br>
+<br>
+<h1>List of Animals</h1>
+<h2>New Way</h2>
+<div fxLayout="row-reverse" fxLayoutAlign="center">
+    <app-zoo-animal fxFlexOffset="15%" *ngFor="let animal of animalList" [animal]="animal" (liked)="onLike(animal)"></app-zoo-animal>
+</div>
