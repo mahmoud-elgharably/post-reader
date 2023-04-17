@@ -31,7 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Mahmoud El-Gharably
 
 - Freelancer - [elgharably2022](https://www.freelancer.com/u/elgharably2022)
-- Email - [moud.elgharably@gmail.com](moud.elgharably@gmail.com)
+- Email - moud.elgharably@gmail.com
 - Facebook - [profile.php?id=100081524696925](https://www.facebook.com/profile.php?id=100081524696925)
 - Twitter - [Mahmoud62651196](https://twitter.com/Mahmoud62651196)
 - Linkedin - [mahmoudelgharably](https://www.linkedin.com/in/mahmoudelgharably)
