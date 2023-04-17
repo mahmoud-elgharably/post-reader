@@ -38,6 +38,10 @@ Mahmoud El-Gharably
 - Stackoverflow: [19274769/mahmoud-elgharably](https://stackoverflow.com/users/19274769/mahmoud-elgharably)
 - Github: [Mahmoud-Elgharably](https://github.com/Mahmoud-Elgharably)
 
+## Privacy Policy
+
+The app does not collect any personal data and does not have any tracking.
+
 ## Licensing
 
 This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and distributed free of charge.
