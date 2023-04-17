@@ -42,6 +42,10 @@ Mahmoud El-Gharably
 
 This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
 
+## Copyright and license
+
+This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is copyright 2022–2023 [Mahmoud El-Gharably](https://github.com/Mahmoud-Elgharably), licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and distributed free of charge.
+
 ## Other
 
-This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and is distributed free of charge.
+This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and distributed free of charge.
