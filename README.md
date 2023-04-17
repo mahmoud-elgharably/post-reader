@@ -26,6 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## About the Author
+
+### Mahmoud El-Gharably
+
+- Freelancer - [elgharably2022](https://www.freelancer.com/u/elgharably2022)
+- Facebook - [profile.php?id=100081524696925](https://www.facebook.com/profile.php?id=100081524696925)
+- Twitter - [Mahmoud62651196](https://twitter.com/Mahmoud62651196)
+- Linkedin - [mahmoudelgharably](https://www.linkedin.com/in/mahmoudelgharably)
+- Github - [Mahmoud-Elgharably](https://github.com/Mahmoud-Elgharably)
+
 ## Licensing
 
 Mahmoud-Elgharably/post-reader Project is licensed with the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE).
