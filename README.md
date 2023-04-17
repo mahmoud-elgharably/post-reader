@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Author
 
-Mahmoud El-Gharably
+Mahmoud ElGharably
 
 - Freelancer: [elgharably2022](https://www.freelancer.com/u/elgharably2022)
 - Email: moud.elgharably@gmail.com
