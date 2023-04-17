@@ -48,4 +48,4 @@ This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgh
 
 ## Copyright and license
 
-This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is copyright 2022–2023 [Mahmoud El-Gharably](https://github.com/Mahmoud-Elgharably), licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and distributed free of charge.
+This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is copyright 2022–2023 [Mahmoud-Elgharably](https://github.com/Mahmoud-Elgharably), licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and distributed free of charge.
