@@ -34,6 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Facebook - [profile.php?id=100081524696925](https://www.facebook.com/profile.php?id=100081524696925)
 - Twitter - [Mahmoud62651196](https://twitter.com/Mahmoud62651196)
 - Linkedin - [mahmoudelgharably](https://www.linkedin.com/in/mahmoudelgharably)
+- Stackoverflow - [19274769/mahmoud-elgharably](https://stackoverflow.com/users/19274769/mahmoud-elgharably)
 - Github - [Mahmoud-Elgharably](https://github.com/Mahmoud-Elgharably)
 
 ## Licensing
