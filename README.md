@@ -37,7 +37,10 @@ Mahmoud ElGharably
 - Linkedin: [mahmoudelgharably](https://www.linkedin.com/in/mahmoudelgharably)
 - Stackoverflow: [19274769/mahmoud-elgharably](https://stackoverflow.com/users/19274769/mahmoud-elgharably)
 - Github: [Mahmoud-Elgharably](https://github.com/Mahmoud-Elgharably)
-- [Gift of $20 USD to get work done on Freelancer.com](https://www.freelancer.com/get/elgharably2022?f=give)
+
+## $20 Bonus
+
+[Gift of $20 USD to get work done on Freelancer.com](https://www.freelancer.com/get/elgharably2022?f=give)
 
 ## Privacy Policy
 
