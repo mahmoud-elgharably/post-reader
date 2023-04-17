@@ -40,7 +40,7 @@ Mahmoud El-Gharably
 
 ## Licensing
 
-This Post Reader Repository is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
 
 ## Other
 
