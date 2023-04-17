@@ -44,4 +44,4 @@ This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgh
 
 ## Other
 
-Mahmoud-Elgharably/post-reader Project is licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and is distributed free of charge.
+This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgharably/post-reader) is licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and is distributed free of charge.
