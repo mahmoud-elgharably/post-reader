@@ -40,6 +40,8 @@ Mahmoud El-Gharably
 
 ## Licensing
 
-This Post Reader repository is licensed under the GNU General Public License, version 3 (GPLv3) and is distributed free of charge.
+This Post Reader Repository is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+
+## Other
 
 Mahmoud-Elgharably/post-reader Project is licensed under the [MIT License](https://github.com/Mahmoud-Elgharably/post-reader/blob/main/LICENSE) and is distributed free of charge.
