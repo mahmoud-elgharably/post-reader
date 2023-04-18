@@ -56,4 +56,4 @@ This repository [Mahmoud-Elgharably/post-reader](https://github.com/Mahmoud-Elgh
 
 ## License
 
-[AGPLv3 | Copyright 2017 Nishant Srivastava](LICENSE)
+[AGPLv3 | Copyright 2017 Nishant Srivastava](LICENSE2)
